@@ -1,1 +1,1 @@
-This is thw BBTech website with Github Pages.
+This is the BBTech website with Github Pages.
