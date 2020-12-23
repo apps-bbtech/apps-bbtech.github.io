@@ -7,7 +7,7 @@ const Home = () => {
        <div className={style.home}>
            <div className={style.sloganContainer}>
             <h1 className={style.slogan}>Apps for everyone.</h1>
-            <hr color='white' width='100%' size="1px"/>
+            <hr className= {style.line} color="white"/>
            </div>
            <img className = {style.logo} src={logo} alt=""/>
 
