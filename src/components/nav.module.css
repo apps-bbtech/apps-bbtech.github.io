@@ -1,0 +1,26 @@
+.logoLong {
+    width: 10em;
+    height: 4em;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: transparent;
+}
+
+.routes {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    
+}
+
+.route {
+    margin-left: 35px;
+    margin-right: 35px;
+    color: white;
+}
